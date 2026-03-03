@@ -1,1 +1,1 @@
-worker: python -u fastloop_improved.py
+worker: python3 fastloop_improved.py
