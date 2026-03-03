@@ -1,2 +1,2 @@
 #!/bin/bash
-python fastloop_improved.py
+python3 fastloop_improved.py
